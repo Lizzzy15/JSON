@@ -1,0 +1,11 @@
+{
+ "firstName": "Elizabeth",
+ "LastName" : "Volkotrubova",
+ "age" : 23,
+"children" : []
+}
+ {"type" : "dog",
+ "name" : "Jessi",
+ "age" : 12,
+ "breed" : "affenpincher"
+}
